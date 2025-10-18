@@ -85,6 +85,12 @@ I wanted to understand portfolio risk and learn how investment firms analyze pot
 - Test different risk-return profiles
 - Include transaction costs
 
+## Resources Used
+
+- *Options, Futures, and Other Derivatives* by John Hull
+- PyTorch Documentation
+- QuantPy (Youtube)
+
 ## Disclaimer
 
 Disclaimer - This was just a fun educational personal project, please dont use for reeal life trading.
